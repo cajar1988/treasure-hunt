@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b3c388f-2cfe-4a34-8ec1-4e9891df4206" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XFvQ6JaCFATt6b2cK5sbft5Z69" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.jbajak.treasurehunt.service" />
+      <recent name="com.jbajak.treasurehunt.model" />
+      <recent name="com.jbajak.treasurehunt.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jbajak.treasurehunt.model" />
+      <recent name="com.jbajak.treasurehunt.controller" />
+      <recent name="example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jbajak.treasurehunt.controller" />
+      <recent name="example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'com.jbajak.treasurehunt'">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jbajak.treasurehunt.Application" />
+      <module name="treasure-hunt.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jbajak.treasurehunt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests in 'com.jbajak.treasurehunt'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.jbajak.treasurehunt.*&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TreasureHuntControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.jbajak.treasurehunt.controller.TreasureHuntControllerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TreasureHuntControllerTest.server error when start at 91, not recursive" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.jbajak.treasurehunt.controller.TreasureHuntControllerTest.server error when start at 91, not recursive&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TreasureHuntResultJsonTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.jbajak.treasurehunt.controller.TreasureHuntResultJsonTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'com.jbajak.treasurehunt'" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Gradle.TreasureHuntResultJsonTest" />
+        <item itemvalue="Gradle.TreasureHuntControllerTest.server error when start at 91, not recursive" />
+        <item itemvalue="Gradle.TreasureHuntControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b3c388f-2cfe-4a34-8ec1-4e9891df4206" name="Default Changelist" comment="" />
+      <created>1580654637258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580654637258</updated>
+      <workItem from="1580654641941" duration="173000" />
+      <workItem from="1580654838304" duration="9501000" />
+      <workItem from="1580664819674" duration="8553000" />
+      <workItem from="1580673446734" duration="31000" />
+      <workItem from="1580673498052" duration="305000" />
+      <workItem from="1580717630205" duration="165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1028" y="379" key="#Application" timestamp="1580673657804">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1028" y="379" key="#Application/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580673657804" />
+    <state x="154" y="92" width="2314" height="1256" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580657830434">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="154" y="92" width="2314" height="1256" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580657830434" />
+    <state x="1116" y="437" key="#com.intellij.ide.util.MemberChooser" timestamp="1580671360359">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1116" y="437" key="#com.intellij.ide.util.MemberChooser/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580671360359" />
+    <state x="1006" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580660431544">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1006" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580660431544" />
+    <state x="1041" y="468" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580665551897">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1041" y="468" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580665551897" />
+    <state x="1066" y="424" width="1041" height="592" key="#xdebugger.evaluate" timestamp="1580670398357">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1066" y="424" width="1041" height="592" key="#xdebugger.evaluate/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580670398357" />
+    <state x="1091" y="462" key="FileChooserDialogImpl" timestamp="1580673455950">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1091" y="462" key="FileChooserDialogImpl/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580673455950" />
+    <state width="2455" height="413" key="GridCell.Tab.0.bottom" timestamp="1580673802816">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2455" height="413" key="GridCell.Tab.0.bottom/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580673802816" />
+    <state width="2455" height="413" key="GridCell.Tab.0.center" timestamp="1580673802816">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2455" height="413" key="GridCell.Tab.0.center/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580673802816" />
+    <state width="2455" height="413" key="GridCell.Tab.0.left" timestamp="1580673802816">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2455" height="413" key="GridCell.Tab.0.left/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580673802816" />
+    <state width="2455" height="413" key="GridCell.Tab.0.right" timestamp="1580673802816">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2455" height="413" key="GridCell.Tab.0.right/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580673802816" />
+    <state width="2455" height="508" key="GridCell.Tab.1.bottom" timestamp="1580673380184">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2455" height="508" key="GridCell.Tab.1.bottom/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580673380184" />
+    <state width="2455" height="508" key="GridCell.Tab.1.center" timestamp="1580673380184">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2455" height="508" key="GridCell.Tab.1.center/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580673380184" />
+    <state width="2455" height="508" key="GridCell.Tab.1.left" timestamp="1580673380184">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2455" height="508" key="GridCell.Tab.1.left/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580673380184" />
+    <state width="2455" height="508" key="GridCell.Tab.1.right" timestamp="1580673380184">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="2455" height="508" key="GridCell.Tab.1.right/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580673380184" />
+    <state x="812" y="363" key="SettingsEditor" timestamp="1580717673817">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="812" y="363" key="SettingsEditor/62.0.2498.1440/2560.1.2560.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580717673817" />
+    <state width="1257" height="728" key="XDebugger.FullValuePopup" timestamp="1580668392498">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state width="1257" height="728" key="XDebugger.FullValuePopup/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580668392498" />
+    <state x="1006" y="545" key="com.intellij.ide.util.TipDialog" timestamp="1580717633383">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1006" y="545" key="com.intellij.ide.util.TipDialog/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580673505983" />
+    <state x="1006" y="545" key="com.intellij.ide.util.TipDialog/62.0.2498.1440/2560.1.2560.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580717633383" />
+    <state x="1075" y="439" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580671523157">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1075" y="439" key="com.intellij.testIntegration.createTest.CreateTestDialog/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580671523157" />
+    <state x="943" y="417" width="736" height="606" key="find.popup" timestamp="1580663942762">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="943" y="417" width="736" height="606" key="find.popup/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580663942762" />
+    <state x="974" y="325" width="672" height="678" key="search.everywhere.popup" timestamp="1580717663923">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="974" y="325" width="672" height="678" key="search.everywhere.popup/2622.1.2498.1440/62.0.2498.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580662152989" />
+    <state x="974" y="325" width="672" height="678" key="search.everywhere.popup/62.0.2498.1440/2560.1.2560.1440/-1920.209.1920.1080@62.0.2498.1440" timestamp="1580717663923" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/groovy/com/jbajak/treasurehunt/controller/TreasureHuntController.groovy</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/groovy/com/jbajak/treasurehunt/controller/TreasureHuntResultJsonTest.groovy</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/groovy/com/jbajak/treasurehunt/controller/TreasureHuntControllerTest.groovy</url>
+          <line>167</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/groovy/com/jbajak/treasurehunt/controller/TreasureHuntControllerTest.groovy</url>
+          <line>173</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

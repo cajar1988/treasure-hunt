@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jbajak.treasurehunt.service.InputParamParserTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-02-02T20:03:14" hostname="DESKTOPJB" time="0.03">
+  <properties/>
+  <testcase name="testThrowsExceptionForTooHighX" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.002"/>
+  <testcase name="testThrowsExceptionForTooHighY" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.002"/>
+  <testcase name="testParseValidValues1" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.0"/>
+  <testcase name="testParseValidValues2" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.0"/>
+  <testcase name="testParseValidValues3" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.001"/>
+  <testcase name="testParseValidValues4" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.0"/>
+  <testcase name="testThrowsExceptionForTooShortInput" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.002"/>
+  <testcase name="testParseAllValidValues" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.004"/>
+  <testcase name="testThrowsExceptionForNullInput" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.001"/>
+  <testcase name="testThrowsExceptionForLetterAsX" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.002"/>
+  <testcase name="testThrowsExceptionForLetterAsY" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.006"/>
+  <testcase name="testThrowsExceptionForTooLongInput" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.002"/>
+  <testcase name="testThrowsExceptionForTooLowX" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.002"/>
+  <testcase name="testThrowsExceptionForTooLowY" classname="com.jbajak.treasurehunt.service.InputParamParserTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

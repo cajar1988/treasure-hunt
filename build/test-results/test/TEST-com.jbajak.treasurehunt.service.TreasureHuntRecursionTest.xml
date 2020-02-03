@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jbajak.treasurehunt.service.TreasureHuntRecursionTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-02-02T20:03:14" hostname="DESKTOPJB" time="0.018">
+  <properties/>
+  <testcase name="testFindsResult2" classname="com.jbajak.treasurehunt.service.TreasureHuntRecursionTest" time="0.002"/>
+  <testcase name="testThrowsExceptionForNullInputArray" classname="com.jbajak.treasurehunt.service.TreasureHuntRecursionTest" time="0.003"/>
+  <testcase name="testFindsResult" classname="com.jbajak.treasurehunt.service.TreasureHuntRecursionTest" time="0.001"/>
+  <testcase name="testThrowsExceptionForEmptyInputArray" classname="com.jbajak.treasurehunt.service.TreasureHuntRecursionTest" time="0.002"/>
+  <testcase name="testNoTreasury1" classname="com.jbajak.treasurehunt.service.TreasureHuntRecursionTest" time="0.001"/>
+  <testcase name="testNoTreasury2" classname="com.jbajak.treasurehunt.service.TreasureHuntRecursionTest" time="0.001"/>
+  <testcase name="testThrowsExceptionForNegativeStartX" classname="com.jbajak.treasurehunt.service.TreasureHuntRecursionTest" time="0.003"/>
+  <testcase name="testThrowsExceptionForNegativeStartY" classname="com.jbajak.treasurehunt.service.TreasureHuntRecursionTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
